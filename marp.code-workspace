@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./Dracula/dracula.css",
+			"./styles/theme.css"
+		]
+	}
+}
